@@ -1,1 +1,4 @@
-alert('test');
+import {initCanvas} from "./core/init";
+
+initCanvas();
+
