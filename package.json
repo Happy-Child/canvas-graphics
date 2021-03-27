@@ -1,0 +1,17 @@
+{
+  "name": "canvas-graphics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Happy-Child/canvas-graphics.git",
+  "author": "Egor Lazuka (Home) <lazuka_99@mail.ru>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack serve --mode=development",
+    "build": "webpack --mode=production"
+  },
+  "devDependencies": {
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
